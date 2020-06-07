@@ -1,0 +1,17 @@
+
+* Links
+  - [[http://localhost/wordpress/blogviajero/][Blog del Viajero]] 
+* Lesson 1
+** Part 1
+  Introducing te series and setting up the pagacke manager
+  - Show Melpa
+    - set up Melpa
+** Part 2
+      - installed use-package
+	- installed try
+	  - installed wich key
+* Lesson 2
+  Show some org-mode
+  -review init.el
+  -set up Readme.org
+
